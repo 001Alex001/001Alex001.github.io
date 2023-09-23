@@ -1,0 +1,95 @@
+body{
+    background-color:rgb(235, 235, 235);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.amenamec{
+    display: flex;
+}
+.leftPanel,.downPanel{
+    padding: 20px;
+    border-radius: 16px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 100px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;}
+#nkar{
+    border-radius: 16px;
+}
+.anun{
+    font-size: large;
+}
+
+p{
+    margin: 0;
+    margin-left: 20px;
+}
+.hayeren,.ruseren,.angleren,.adobe,.word,.excel,.media{
+   
+    width: 90%;
+    background-color: rgb(112, 117, 123);
+    border-radius: 16px;
+}
+
+.hayeren1 {
+    width:90%
+}
+.ruseren1{
+    width: 60%;
+}
+.angleren1{
+    width: 50%;
+}
+.hayeren1,.ruseren1,.angleren1,.adobe1,.word1,.excel1,.media1{
+    border-radius: 10px;
+    text-align: center;
+    background-color: #40b6ab;
+    height:19px;
+}
+.adobe1{
+    width: 65%;
+}
+.media1{
+    width: 50%;
+}
+.word1{
+    width: 80%;
+}
+.excel1{
+    width: 70%;
+}
+.rightPanel{
+    padding: 40px;
+    width: 1400px;
+    border-radius: 16px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 100px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.education{
+    color: rgb(0, 80, 106);
+}
+.education-container,.work-container{
+   
+    font-weight: 100;
+    font-size: 18px;
+}
+.education,.work,.kalendar,.kalendar2,.kalendar3,.kalendar4,.kalendar5{
+    /* margin-top: 30px; */
+    display: flex;
+    color: rgb(33, 122, 122);
+}
+.work{
+    margin-top: 70px;
+}
+.downPanel{
+    background-color: rgb(33, 122, 122);
+    width: 60%;
+    height: 50px;
+    margin-left: 275px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
